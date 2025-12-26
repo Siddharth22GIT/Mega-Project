@@ -1,0 +1,24 @@
+{
+  "name": "mega-project",
+  "version": "1.0.0",
+  "description": "A backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddharth22GIT/Mega-Project.git"
+  },
+  "keywords": [
+    "Javascript",
+    "backend",
+    "coffee"
+  ],
+  "author": "Siddharth Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddharth22GIT/Mega-Project/issues"
+  },
+  "homepage": "https://github.com/Siddharth22GIT/Mega-Project#readme"
+}
